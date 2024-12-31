@@ -1,5 +1,3 @@
-module example.com/hello
+module github.com/kaile777/GO
 
 go 1.23.4
-
-replace example.com/greetings => ../my-modules/greetings
